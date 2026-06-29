@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Zayna! 👋
 
-<!--
-**ZaynaKhan182210/ZaynaKhan182210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer and Creative Developer
 
-Here are some ideas to get you started:
+🎨 Passionate about building beautiful, user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning programming fundamentals while building projects and exploring new technologies.
+
+---
+
+## 🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- UI/UX Design
+
+---
+
+## 🛠️ Interests
+
+- Web Development
+- Software Engineering
+- UI/UX Design
+- AI & Automation
+- Cybersecurity
+
+---
+
+## 🎯 Current Goal
+
+Build meaningful projects, improve my skills every day, and grow as a developer.
