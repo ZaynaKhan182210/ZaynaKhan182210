@@ -11,7 +11,7 @@
 ## 🌱 Currently Learning
 
 - HTML
-- CSS
+- Python
 - JavaScript
 - Git & GitHub
 - UI/UX Design
